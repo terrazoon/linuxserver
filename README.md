@@ -2,9 +2,10 @@
 linux server with apache2, postgres, python, flask
 
 #ip address and port
-XXX.XXX.XXX.XXX:2200
+54.218.29.33:2200
 
 #complete URL to app
+http://54.218.29.33/
 
 #software installed
 apache 2.4.18
